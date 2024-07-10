@@ -1,0 +1,16 @@
+.maincontent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header{
+    margin: 10px;
+}
+
+.boxtext{
+  border: 1px solid black;
+  width: 20%;
+  height: 100px;
+  margin-bottom: 30px;
+}
